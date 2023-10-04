@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="607973f5-5f33-4d26-bf11-1fb4d3b0092b" name="Changes" comment="" />
+    <list default="true" id="607973f5-5f33-4d26-bf11-1fb4d3b0092b" name="Changes" comment="tired">
+      <change beforePath="$PROJECT_DIR$/../1st game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1st game/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -204,8 +206,16 @@
       <workItem from="1696415334954" duration="1000" />
       <workItem from="1696415346674" duration="3270000" />
       <workItem from="1696418884435" duration="2457000" />
-      <workItem from="1696421425847" duration="6209000" />
+      <workItem from="1696421425847" duration="7538000" />
     </task>
+    <task id="LOCAL-00001" summary="tired">
+      <created>1696427697343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696427697343</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,17 +226,33 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tired" />
+    <option name="LAST_COMMIT_MESSAGE" value="tired" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/1___Basic_platformer$support.coverage" NAME="support Coverage Results" MODIFIED="1696420914805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
     <SUITE FILE_PATH="coverage/1___Basic_platformer$level.coverage" NAME="level Coverage Results" MODIFIED="1696423454863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
     <SUITE FILE_PATH="coverage/1___Basic_platformer$settings.coverage" NAME="settings Coverage Results" MODIFIED="1696423210768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
     <SUITE FILE_PATH="coverage/1___Basic_platformer$player.coverage" NAME="player Coverage Results" MODIFIED="1696425930410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
-    <SUITE FILE_PATH="coverage/1___Basic_platformer$main.coverage" NAME="main Coverage Results" MODIFIED="1696427417965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../1st game/code" />
+    <SUITE FILE_PATH="coverage/1___Basic_platformer$main.coverage" NAME="main Coverage Results" MODIFIED="1696430460084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../1st game/code" />
   </component>
 </project>
